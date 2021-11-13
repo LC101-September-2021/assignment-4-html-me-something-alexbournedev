@@ -1,1 +1,23 @@
-/* Write your CSS here! */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.headings{
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+nav {
+  text-align: right;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
