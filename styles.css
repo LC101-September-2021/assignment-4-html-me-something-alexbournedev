@@ -4,6 +4,10 @@ body {
   display: block;
 }
 
+funParagraph {
+  color: green;
+}
+
 .headings{
   text-align: center;
   color: red;
