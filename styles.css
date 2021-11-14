@@ -1,9 +1,12 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 8px;
+  display: block;
 }
 
 .headings{
   text-align: center;
+  color: red;
 }
 
 li {
@@ -19,4 +22,8 @@ nav {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+#mainHeading {
+  color: red;
 }
