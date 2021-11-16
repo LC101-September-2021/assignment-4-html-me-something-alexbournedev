@@ -1,1 +1,65 @@
-/* Write your CSS here! */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 8px;
+  display: block;
+}
+
+hr {
+  width: 66%;
+}
+
+#mario {
+  width: 25%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #E10F00;
+}
+
+a:visited {
+  color: #E10F00;
+}
+
+a:hover {
+  color: #4655F5;
+}
+
+.funParagraph {
+  color: green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.headings {
+  text-align: center;
+  color: red;
+}
+
+img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+li {
+  list-style-type: none;
+}
+
+nav {
+  text-align: right;
+  margin-right: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#mainHeading {
+  color: red;
+}
