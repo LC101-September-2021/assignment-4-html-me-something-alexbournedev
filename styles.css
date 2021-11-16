@@ -4,6 +4,11 @@ body {
   display: block;
 }
 
+#mario {
+  width: 25%;
+  height: auto;
+}
+
 a {
   text-decoration: none;
   color: #E10F00;
@@ -28,6 +33,7 @@ a:hover {
 .headings{
   text-align: center;
   color: red;
+  
 }
 
 img {
