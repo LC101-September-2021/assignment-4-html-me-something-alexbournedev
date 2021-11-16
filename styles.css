@@ -4,6 +4,10 @@ body {
   display: block;
 }
 
+hr {
+  width: 66%;
+}
+
 #mario {
   width: 25%;
   height: auto;
@@ -30,10 +34,9 @@ a:hover {
   width: 50%;
 }
 
-.headings{
+.headings {
   text-align: center;
   color: red;
-  
 }
 
 img {
